@@ -4,9 +4,9 @@ BamburralViz is a project that focuses our efforts on democratizing access to qu
 PRIVATE PUBLIC API<h4>
 
 **Embrapa**
-
+- 
 **Ibge**
-
+- 
 **Federal Secretary of Agriculture**
 
 **State Department of AGriculture**
