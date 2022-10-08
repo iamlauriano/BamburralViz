@@ -5,7 +5,7 @@ import geocoder
 # Create your views here.
 
 def index(request):
-    location = geocoder.osm('BR')
+    location = geocoder.osm('caazapá')
     lat = location.lat
     lng = location.lng
     country = location.country
