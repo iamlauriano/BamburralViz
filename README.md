@@ -44,7 +44,7 @@ Public Data Webcrawler
 
 USEFULL LINKS 
 
-https://basedosdados.org/dataset/agrofit?externallink=Pesquisar+e+Baixar 
+https://basedosdados.org/dataset/agrofit?externallink=Pesquisar+e+Baixar  
 https://www.digipathos-rep.cnptia.embrapa.br/
 https://maissoja.com.br/tamanho-de-amostra-de-insetos-praga-base-para-o-mip/
 https://www.ncbi.nlm.nih.gov/genbank/
