@@ -14,13 +14,12 @@ Enterprises of Technologies -
 Universities - 
 Owner AP
 
-
 what does this do:
 
-Publics API - 
+Public API - 
 Public Database - 
 Own API - 
-Public Data Webcrawler - 
+Public Data Webcrawler
 
 USEFUL LINKS TO SEMI-ARID PLANTS:
 
