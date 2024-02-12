@@ -50,6 +50,8 @@ https://nema.univasf.edu.br/site/index.php?page=download
 https://periodicoscientificos.ufmt.br/ojs/index.php/biodiversidade/article/view/13244
 https://fapesq.rpp.br/noticias/plantas-da-caatinga-sao-as-novas-armas-da-ciencia-contra-aedes-e-micro-organismos-resistentes
 https://drive.google.com/drive/folders/10LR_mErtQD5ReSAkHW5itgvDDqyVA1Xp?fbclid=IwAR3rnYNIDwe_1BtePwWRRfMzF48eDveWQNt5yAD-Un_z1lJxv7CkJm0ax4c
+https://ri.ufs.br/bitstream/riufs/13323/2/ANA_CECILIA_CRUZ_SILVA-Guia.pdf
+https://www.slideshare.net/goretteleal/plantas-tpicas-da-caatinga
 
 
 USEFULL PLANT DESEASE LINKS: 
