@@ -37,8 +37,6 @@ USEFUL LINKS TO SEMI-ARID PLANTS:
 
 USEFULL PLANT DESEASE LINKS: 
 
-:link: https://plants.usda.gov/home  
-:link: https://www.ipni.org  
 :link: https://basedosdados.org/dataset/agrofit?externallink=Pesquisar+e+Baixar  
 :link: https://www.digipathos-rep.cnptia.embrapa.br/  
 :link: https://maissoja.com.br/tamanho-de-amostra-de-insetos-praga-base-para-o-mip/  
@@ -59,3 +57,13 @@ USEFULL PLANT DESEASE LINKS:
 :link: https://dddrincampinas.com.br/noticias/3-novas-pragas-agricolas-que-voce-deve-ficar-de-olho/  
 :link: https://www.agroapi.cnptia.embrapa.br/store/site/pages/list-apis.jag  
 :link: https://www.agroapi.cnptia.embrapa.br/store/apis/info?name=Bioinsumos&version=v1&provider=agroapi  
+
+
+plant library:
+
+:link: https://plants.usda.gov/home  
+:link: https://www.biodiversitylibrary.org/  
+:link: https://www.ipni.org  
+:link: https://www.anbg.gov.au/  
+:link: https://huh.harvard.edu/   
+
