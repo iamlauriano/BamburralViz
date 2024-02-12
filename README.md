@@ -42,6 +42,7 @@ Own API
 Public Data Webcrawler
 
 USEFUL LINKS TO SEMI-ARID PLANTS:
+
 :link: https://fieldguides.fieldmuseum.org/pt-br/guias/guia/274
 :link: https://releia.ifsertao-pe.edu.br/jspui/handle/123456789/640
 :link: https://www.arca.fiocruz.br/bitstream/handle/icict/51656/ana_valeria_vieira_et_all.pdf?sequence=2&isAllowed=y
@@ -55,6 +56,7 @@ USEFUL LINKS TO SEMI-ARID PLANTS:
 
 
 USEFULL PLANT DESEASE LINKS: 
+
 :link: https://basedosdados.org/dataset/agrofit?externallink=Pesquisar+e+Baixar  
 :link: https://www.digipathos-rep.cnptia.embrapa.br/  
 :link: https://maissoja.com.br/tamanho-de-amostra-de-insetos-praga-base-para-o-mip/  
