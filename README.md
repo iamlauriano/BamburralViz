@@ -1,25 +1,25 @@
 # BamburralViz
 BamburralViz is a project that focuses our efforts on democratizing access to quality data automation for small rural producers
 
-> [!Where do I find]
-> PRIVATE PUBLIC API
-> Embrapa - 
-> Ibge - 
-> Federal Secretary of Agriculture - 
-> State Department of AGriculture - 
-> Municipal Secretary of Agricultura - 
-> Mapa - 
-> Enterprises of Technologies - 
-> Universities - 
-> Owner AP
+Where do I find
+PRIVATE PUBLIC API
+Embrapa - 
+Ibge - 
+Federal Secretary of Agriculture - 
+State Department of AGriculture - 
+Municipal Secretary of Agricultura - 
+Mapa - 
+Enterprises of Technologies - 
+Universities - 
+Owner AP
 
 
-> [!data visualizaation integrate api:]
+data visualizaation integrate api:
 
-> Publics API
-> Public Database
-> Own API
-> Public Data Webcrawler
+Publics API
+Public Database
+Own API
+Public Data Webcrawler
 
 USEFUL LINKS TO SEMI-ARID PLANTS:
 
