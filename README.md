@@ -1,8 +1,7 @@
 # BamburralViz
 BamburralViz is a project that focuses our efforts on democratizing access to quality data automation for small rural producers
 
-> [!Where do I find:]
-
+> [!Where do I find]
 > PRIVATE PUBLIC API
 > Embrapa - 
 > Ibge - 
