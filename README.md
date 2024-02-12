@@ -41,15 +41,23 @@ Public Database
 Own API
 Public Data Webcrawler
 
+USEFUL LINKS TO SEMI-ARID PLANTS:
+https://fieldguides.fieldmuseum.org/pt-br/guias/guia/274
+https://releia.ifsertao-pe.edu.br/jspui/handle/123456789/640
+https://www.arca.fiocruz.br/bitstream/handle/icict/51656/ana_valeria_vieira_et_all.pdf?sequence=2&isAllowed=y
+https://pt.wikipedia.org/wiki/Lista_de_plantas_da_Caatinga
+https://nema.univasf.edu.br/site/index.php?page=download
+https://periodicoscientificos.ufmt.br/ojs/index.php/biodiversidade/article/view/13244
+https://fapesq.rpp.br/noticias/plantas-da-caatinga-sao-as-novas-armas-da-ciencia-contra-aedes-e-micro-organismos-resistentes
 
-USEFULL LINKS 
 
+USEFULL PLANT DESEASE LINKS: 
 :link: https://basedosdados.org/dataset/agrofit?externallink=Pesquisar+e+Baixar  
 :link: https://www.digipathos-rep.cnptia.embrapa.br/  
 :link: https://maissoja.com.br/tamanho-de-amostra-de-insetos-praga-base-para-o-mip/  
 :link: https://www.ncbi.nlm.nih.gov/genbank/  
 :link: https://www.adama.com/brasil/pt/adama-alvo  
-:link: https://www.agricultura.rs.gov.br/monitora-ferrugem-rs  
+:link: https://www.agricultura.rs.gov.br/monitora-ferrugem-rs/home
 :link: http://www.indea.mt.gov.br/-/19229008-site-do-indea-disponibiliza-mapa-da-dispersao-da-ferrugem-asiatica  
 :link: http://www.cenarioagro.com.br/identificadas-tres-novas-pragas-agricolas/  
 :link: https://consepa.org.br/ib-desenvolve-banco-de-dados-online-sobre-mosca-das-frutas-em-sao-paulo/)  
