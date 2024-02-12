@@ -1,40 +1,21 @@
 # BamburralViz
 BamburralViz is a project that focuses our efforts on democratizing access to quality data automation for small rural producers
 
+Where do I find:
+
 PRIVATE PUBLIC API
-
 Embrapa
- 
 Ibge
- 
 Federal Secretary of Agriculture
-
 State Department of AGriculture
-
 Municipal Secretary of Agricultura
-
 Mapa
-
 Enterprises of Technologies
-
 Universities 
-
 Owner API
 
-Agricultural Cropss
 
-Cotton
-Rice
-Oat
-Coffe
-Barley
-Pea
-Bean
-Corn
-Soy
-Wheat
-
-DATA VISUALIZATION INTEGRATE API
+DATA VISUALIZATION INTEGRATE API:
 
 Publics API
 Public Database
