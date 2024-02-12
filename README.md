@@ -1,6 +1,13 @@
 # BamburralViz
 BamburralViz is a project that focuses our efforts on democratizing access to quality data automation for small rural producers
 
+what does this do:
+
+Public API - 
+Public Database - 
+Own API - 
+Public Data Webcrawler
+
 Where do I find: 
 
 PRIVATE PUBLIC API
@@ -13,13 +20,6 @@ Mapa -
 Enterprises of Technologies - 
 Universities - 
 Owner AP
-
-what does this do:
-
-Public API - 
-Public Database - 
-Own API - 
-Public Data Webcrawler
 
 USEFUL LINKS TO SEMI-ARID PLANTS:
 
