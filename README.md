@@ -21,7 +21,7 @@ Enterprises of Technologies -
 Universities - 
 Owner AP
 
-USEFUL LINKS TO SEMI-ARID PLANTS:
+semi-arid plants: 
 
 :link: https://fieldguides.fieldmuseum.org/pt-br/guias/guia/274  
 :link: https://releia.ifsertao-pe.edu.br/jspui/handle/123456789/640  
@@ -35,7 +35,7 @@ USEFUL LINKS TO SEMI-ARID PLANTS:
 :link: https://www.slideshare.net/goretteleal/plantas-tpicas-da-caatinga  
 
 
-USEFULL PLANT DESEASE LINKS: 
+plant desease link: 
 
 :link: https://basedosdados.org/dataset/agrofit?externallink=Pesquisar+e+Baixar  
 :link: https://www.digipathos-rep.cnptia.embrapa.br/  
@@ -56,7 +56,6 @@ USEFULL PLANT DESEASE LINKS:
 :link: https://institucional.ufpel.edu.br/projetos/id/u2738  
 :link: https://dddrincampinas.com.br/noticias/3-novas-pragas-agricolas-que-voce-deve-ficar-de-olho/  
 :link: https://www.agroapi.cnptia.embrapa.br/store/site/pages/list-apis.jag  
-:link: https://www.agroapi.cnptia.embrapa.br/store/apis/info?name=Bioinsumos&version=v1&provider=agroapi  
 
 
 plant library:
@@ -66,4 +65,7 @@ plant library:
 :link: https://www.ipni.org  
 :link: https://www.anbg.gov.au/  
 :link: https://huh.harvard.edu/   
+:link: https://huh.harvard.edu/   
+:link: https://plants.jstor.org/  
+:link: https://pfaf.org/user/  
 
