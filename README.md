@@ -63,7 +63,8 @@ plant library link:
 :link: http://www.efloras.org/  
 :link: https://africanplantdatabase.ch/  
 :link: https://cvalues.science.kew.org/  
-:link: https://huh.harvard.edu/   
+:link: https://food.ec.europa.eu/plants_en  
+:link: https://huh.harvard.edu/  
 :link: https://libguides.cbu.edu/botany/free-databases  
 :link: https://pfaf.org/user/  
 :link: https://phytozome-next.jgi.doe.gov/  
@@ -79,6 +80,5 @@ plant library link:
 :link: https://www.asteraceaegenomesize.com/  
 :link: https://www.biodiversitylibrary.org/  
 :link: https://www.ipni.org  
-:link: https://www.wildflower.org/plants/ 
-:link: https://food.ec.europa.eu/plants_en  
-
+:link: https://www.plantcyc.org/  
+:link: https://www.wildflower.org/plants/  
