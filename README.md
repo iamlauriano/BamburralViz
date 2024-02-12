@@ -49,6 +49,7 @@ https://pt.wikipedia.org/wiki/Lista_de_plantas_da_Caatinga
 https://nema.univasf.edu.br/site/index.php?page=download
 https://periodicoscientificos.ufmt.br/ojs/index.php/biodiversidade/article/view/13244
 https://fapesq.rpp.br/noticias/plantas-da-caatinga-sao-as-novas-armas-da-ciencia-contra-aedes-e-micro-organismos-resistentes
+https://drive.google.com/drive/folders/10LR_mErtQD5ReSAkHW5itgvDDqyVA1Xp?fbclid=IwAR3rnYNIDwe_1BtePwWRRfMzF48eDveWQNt5yAD-Un_z1lJxv7CkJm0ax4c
 
 
 USEFULL PLANT DESEASE LINKS: 
