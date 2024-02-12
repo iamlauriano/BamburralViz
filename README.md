@@ -60,9 +60,11 @@ plant desease link:
 
 plant library link:
 
+:link: http://www.efloras.org/  
 :link: https://africanplantdatabase.ch/  
 :link: https://cvalues.science.kew.org/  
 :link: https://huh.harvard.edu/   
+:link: https://libguides.cbu.edu/botany/free-databases  
 :link: https://pfaf.org/user/  
 :link: https://phytozome-next.jgi.doe.gov/  
 :link: https://plantdatabase.kpu.ca/  
@@ -72,9 +74,11 @@ plant library link:
 :link: https://plants.usda.gov/home  
 :link: https://plantwiseplusknowledgebank.org/  
 :link: https://powo.science.kew.org/  
+:link: https://search.nal.usda.gov/  
 :link: https://www.anbg.gov.au/  
 :link: https://www.asteraceaegenomesize.com/  
 :link: https://www.biodiversitylibrary.org/  
 :link: https://www.ipni.org  
-:link: http://www.efloras.org/  
 :link: https://www.wildflower.org/plants/ 
+:link: https://food.ec.europa.eu/plants_en  
+
