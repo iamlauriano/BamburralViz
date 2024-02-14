@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'map.apps.MapConfig',
+    'plantas.apps.PlantasConfig'
 ]
 
 MIDDLEWARE = [
@@ -49,6 +49,12 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+# Make "/plantdb.fcgi" in URLS go away
+FORCE_SCRIPT_NAME = ''
+
+# Redirect to '/' after successful login
+LOGIN_REDIRECT_URL = '/'
 
 ROOT_URLCONF = 'bamburralviz.urls'
 
@@ -109,7 +115,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Fortaleza'
 
 USE_I18N = True
 
