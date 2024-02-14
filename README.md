@@ -82,5 +82,31 @@ plant library link:
 :link: https://www.ipni.org  
 :link: https://www.plantcyc.org/  
 :link: https://www.wildflower.org/plants/  
-
+:link: https://agris.fao.org/  
+:link: https://www.cifor-icraf.org/research/  
+:link: https://www.dataplamt.org.br  
+:link: https://www.arvores.brasil.nom.br  
+:link: https://hortodidatico.ufsc.br/banco-de-plantas  
+:link: http://nwfdb.bioversityinternational.org  
+:link: https://tools.bgci.org/plant_search.php  
+:link: https://tools.bgci.org/global_tree_search.php  
+:link: https://tools.bgci.org/threat_search.php  
+:link: https://webdrm.cpqba.unicamp.br/cpma/lista_sementes.php  
+:link: https://www.cwrdiversity.org/checklist/  
+:link: https://phytochem.nal.usda.gov/  
+:link: https://eol.org/collections/55377  
+:link: https://www.iucngisd.org/gisd  
+:link: https://insidewood.lib.ncsu.edu  
+:link: https://en.wikipedia.org/wiki/List_of_Brazilian_fruits#List_of_Brazilian_fruits  
+:link: https://mansfeld.ipk-gatersleben.de/apex/f?p=185  
+:link: https://www.ppmac.org/medicinal-aromatica-condimentar  
+:link: https://pfaf.org/user/Default.aspx  
+:link: https://prota.prota4u.org/  
+:link: https://www.smgrowers.com/  
+:link: https://sibbr.gov.br/  
+:link: https://www.delta-intkey.com/grass/index.htm  
+:link: https://www.conifers.org/zz/gymnosperms.php  
+:link: https://guides.library.manoa.hawaii.edu/paccrops  
+:link: https://plants.usda.gov/  
+:link: https://tropical.theferns.info/  
 
