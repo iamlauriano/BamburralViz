@@ -1,5 +1,5 @@
 # BamburralViz
-BamburralViz is a project that focuses our efforts on democratizing access to quality data automation for small rural producers
+BamburralViz is a project that focuses our efforts on democratizing access to automation of quality data on Brazilian caatinga flora for small rural producers
 
 what does this do:
 
@@ -58,55 +58,55 @@ plant desease link:
 :link: https://www.ncbi.nlm.nih.gov/genbank/  
 
 
-plant library link:
+plant database link:
 
+:link: http://nwfdb.bioversityinternational.org  
 :link: http://www.efloras.org/  
 :link: https://africanplantdatabase.ch/  
+:link: https://agris.fao.org/  
 :link: https://cvalues.science.kew.org/  
+:link: https://en.wikipedia.org/wiki/List_of_Brazilian_fruits#List_of_Brazilian_fruits  
+:link: https://eol.org/collections/55377  
 :link: https://food.ec.europa.eu/plants_en  
+:link: https://guides.library.manoa.hawaii.edu/paccrops  
+:link: https://hortodidatico.ufsc.br/banco-de-plantas  
 :link: https://huh.harvard.edu/  
+:link: https://insidewood.lib.ncsu.edu  
 :link: https://libguides.cbu.edu/botany/free-databases  
+:link: https://mansfeld.ipk-gatersleben.de/apex/f?p=185  
 :link: https://pfaf.org/user/  
+:link: https://pfaf.org/user/Default.aspx  
+:link: https://phytochem.nal.usda.gov/  
 :link: https://phytozome-next.jgi.doe.gov/  
 :link: https://plantdatabase.kpu.ca/  
 :link: https://plantdatabase.uconn.edu/  
 :link: https://plants.ensembl.org/  
 :link: https://plants.jstor.org/  
+:link: https://plants.usda.gov/  
 :link: https://plants.usda.gov/home  
 :link: https://plantwiseplusknowledgebank.org/  
 :link: https://powo.science.kew.org/  
+:link: https://prota.prota4u.org/  
 :link: https://search.nal.usda.gov/  
+:link: https://sibbr.gov.br/  
+:link: https://tools.bgci.org/global_tree_search.php  
+:link: https://tools.bgci.org/plant_search.php  
+:link: https://tools.bgci.org/threat_search.php  
+:link: https://tropical.theferns.info/  
+:link: https://webdrm.cpqba.unicamp.br/cpma/lista_sementes.php  
 :link: https://www.anbg.gov.au/  
+:link: https://www.arvores.brasil.nom.br  
 :link: https://www.asteraceaegenomesize.com/  
 :link: https://www.biodiversitylibrary.org/  
-:link: https://www.ipni.org  
-:link: https://www.plantcyc.org/  
-:link: https://www.wildflower.org/plants/  
-:link: https://agris.fao.org/  
 :link: https://www.cifor-icraf.org/research/  
-:link: https://www.dataplamt.org.br  
-:link: https://www.arvores.brasil.nom.br  
-:link: https://hortodidatico.ufsc.br/banco-de-plantas  
-:link: http://nwfdb.bioversityinternational.org  
-:link: https://tools.bgci.org/plant_search.php  
-:link: https://tools.bgci.org/global_tree_search.php  
-:link: https://tools.bgci.org/threat_search.php  
-:link: https://webdrm.cpqba.unicamp.br/cpma/lista_sementes.php  
-:link: https://www.cwrdiversity.org/checklist/  
-:link: https://phytochem.nal.usda.gov/  
-:link: https://eol.org/collections/55377  
-:link: https://www.iucngisd.org/gisd  
-:link: https://insidewood.lib.ncsu.edu  
-:link: https://en.wikipedia.org/wiki/List_of_Brazilian_fruits#List_of_Brazilian_fruits  
-:link: https://mansfeld.ipk-gatersleben.de/apex/f?p=185  
-:link: https://www.ppmac.org/medicinal-aromatica-condimentar  
-:link: https://pfaf.org/user/Default.aspx  
-:link: https://prota.prota4u.org/  
-:link: https://www.smgrowers.com/  
-:link: https://sibbr.gov.br/  
-:link: https://www.delta-intkey.com/grass/index.htm  
 :link: https://www.conifers.org/zz/gymnosperms.php  
-:link: https://guides.library.manoa.hawaii.edu/paccrops  
-:link: https://plants.usda.gov/  
-:link: https://tropical.theferns.info/  
+:link: https://www.cwrdiversity.org/checklist/  
+:link: https://www.dataplamt.org.br  
+:link: https://www.delta-intkey.com/grass/index.htm  
+:link: https://www.ipni.org  
+:link: https://www.iucngisd.org/gisd  
+:link: https://www.plantcyc.org/  
+:link: https://www.ppmac.org/medicinal-aromatica-condimentar  
+:link: https://www.smgrowers.com/  
+:link: https://www.wildflower.org/plants/  
 

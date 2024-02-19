@@ -10,5 +10,6 @@ class Planta(models.Model):
     frutificacao = models.CharField(max_length=100, null=True, blank=True)
     uso = models.CharField(max_length=1000, null=True, blank=True) 
     caracteristica = models.CharField(max_length=1500, null=True, blank=True)
+    created_at = DateTimeField(auto_now_add=True, blank=False)
 
    
