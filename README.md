@@ -57,6 +57,9 @@ plant desease link:
 :link: https://www.infoteca.cnptia.embrapa.br/  
 :link: https://www.ncbi.nlm.nih.gov/genbank/  
 
+scientific magazines:
+
+:link: https://cultivandosaber.fag.edu.br/  
 
 plant database link:
 
@@ -109,4 +112,5 @@ plant database link:
 :link: https://www.ppmac.org/medicinal-aromatica-condimentar  
 :link: https://www.smgrowers.com/  
 :link: https://www.wildflower.org/plants/  
-
+:link: https://www.gbif.org  
+:link: https://www.zimbabweflora.co.zw/  
